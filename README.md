@@ -1,20 +1,23 @@
+%%writefile README.md
 # Workout Planner
 
-**Student Name**: Nimra Zafar
-**Student ID**: 65212  
+**Student Name**: Nimra Zafar 
+**Student ID**: 65212 
 **Roll Number**: BSSE-65212
 
 ## Features
 - BMI Calculation
-- Workout duration & diet plan suggestion
-- Exception handling for invalid inputs
+- Workout duration & basic diet plan
+- Exception handling for invalid input
+- **v2.0: Suggests workout location (Home or Gym) based on BMI**
 
-## BMI Categories
-- Underweight: < 18.5
-- Normal: 18.5 – 24.9
-- Overweight: 25 – 29.9
-- Obese: 30+
+## Usage
+1. Input weight in kg and height in cm
+2. Get:
+   - BMI
+   - Workout time & diet plan
+   - Workout location suggestion
 
-## Usage Instructions
-```bash
-python workout_planner.py
+## Version
+- v1.0: BMI + Workout + Diet
+- v2.0: Added Home/Gym recommendation feature
