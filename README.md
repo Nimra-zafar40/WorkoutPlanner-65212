@@ -1,8 +1,8 @@
 # Workout Planner
 
-**Student Name**: John Doe  
-**Student ID**: 123456  
-**Roll Number**: BSCS-XX-XXXX  
+**Student Name**: Nimra Zafar
+**Student ID**: 65212  
+**Roll Number**: BSSE-65212
 
 ## Features
 - BMI Calculation
